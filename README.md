@@ -1,6 +1,6 @@
 # DesigningPatterns
 Do Design Pattern Presentation
-1
+1a
 - Using Google Slides
 - Build a Tutorial/Presentation on Java Design Patterns
 - Include all patterns discussed in the course
